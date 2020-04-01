@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.wandayu.lobby</string>
+				<string>org.game.xinguanying</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>打鱼乐</string>
+				<string>新冠赢</string>
 			</dict>
 		</dict>
 	</array>
